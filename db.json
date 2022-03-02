@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": 2,
+      "name": "maisam chatha",
+      "address": "uk",
+      "email": "Maisam@gmail.com",
+      "contact": "982478234"
+    },
+    {
+      "name": "sami akbar",
+      "address": "canada",
+      "email": "sami311@gmail.com",
+      "contact": "438924392",
+      "id": 3
+    },
+    {
+      "name": "usama molvi",
+      "address": " sohdra sialkot",
+      "email": "usama@gmail.com",
+      "contact": "485499380",
+      "id": 5
+    },
+    {
+      "name": "hamza",
+      "address": "jala pur jattan",
+      "email": "hamza@gmail.com",
+      "contact": "8349823423",
+      "id": 6
+    }
+  ]
+}
